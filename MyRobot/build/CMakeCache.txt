@@ -519,9 +519,6 @@ ignition-math2_DIR:PATH=/usr/lib/x86_64-linux-gnu/cmake/ignition-math2
 //Path to a library.
 onelib:FILEPATH=/usr/lib/x86_64-linux-gnu/libignition-math2.so
 
-//Dependencies for target
-welcome_LIB_DEPENDS:STATIC=
-
 
 ########################
 # INTERNAL cache entries
